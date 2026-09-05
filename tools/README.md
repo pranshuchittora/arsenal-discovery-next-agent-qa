@@ -277,6 +277,7 @@
 
 ### Web Testing
 [&uarr;](#table-of-contents)
+* [Agent QA](https://github.com/vostride/agent-qa) - Natural-language web and mobile UI testing with execution memory, CLI and MCP access (FSL-1.1-ALv2 source-available; model costs separate).
 * [Selenium IDE](https://github.com/SeleniumHQ/selenium-ide) - New Life of Selenium IDE UI tests record and playback tool.
 * [HAR Viewer](http://www.softwareishard.com/blog/har-viewer/) - Online tool for HTTP Archive files visualization
 * [UI Testing Playground](https://the-internet.herokuapp.com/) - Good for practicing UI automation techniques.
